@@ -23,7 +23,6 @@ This is a simple yet fun implementation of the timeless Tic Tac Toe game for iOS
 - Two-player mode for competitive gameplay.
 - Automatic detection of game results (win, draw).
 - A replay feature to start a new game.
-- A responsive layout that adapts to different iOS devices.
 
 ## Screenshots
 
