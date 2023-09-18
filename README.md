@@ -12,9 +12,6 @@ A classic Tic Tac Toe game for iOS, built using SwiftUI.
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
