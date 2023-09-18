@@ -2,7 +2,7 @@
 
 A classic Tic Tac Toe game for iOS, built using SwiftUI.
 
-![Game Screenshot](screenshots/game_screenshot.png)
+![Game Screenshot](https://i.ibb.co/sgmRGrd/ttt1.png)
 
 ## Table of Contents
 
