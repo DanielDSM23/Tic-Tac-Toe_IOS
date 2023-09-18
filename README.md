@@ -32,9 +32,9 @@ This is a simple yet fun implementation of the timeless Tic Tac Toe game for iOS
 
 Here are some screenshots from the app:
 
-- ![Screenshot 1](screenshots/screenshot1.png)
-- ![Screenshot 2](screenshots/screenshot2.png)
-- ![Screenshot 3](screenshots/screenshot3.png)
+- ![Screenshot 1](https://i.ibb.co/6sHs1mm/ttt2.png)
+- ![Screenshot 2](https://i.ibb.co/PCj6FmS/ttt3.png)
+- ![Screenshot 3](https://i.ibb.co/WgTsrsB/ttt4.png)
 
 ## Getting Started
 
